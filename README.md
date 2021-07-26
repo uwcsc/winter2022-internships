@@ -8,8 +8,8 @@ Good luck and happy hunting :tada:!
 
 
 ### List of Winter 2022 internships
-| Company Name | Position | Link | Location | Notes |
-|--------------|----------|------|----------|-------|
+| Company Name | Position | Location | Notes |
+|--------------|----------|----------|-------|
 
 
 ### Other Winter 2022 internships lists
