@@ -6,8 +6,6 @@ Feel free to contribute by submitting a pull request :octocat:!
 
 Good luck and happy hunting :tada:!
 
-
-### List of Winter 2022 internships
 | Company Name | Position | Location | Visa Support | Notes |
 |--------------|----------|----------|--------------|-------|
 
