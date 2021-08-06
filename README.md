@@ -1,8 +1,10 @@
-# Winter 2022 Internships by UW CSC
+# Winter 2022 Internships
 
-This repo has links to tech-related internships positions and external resources as well 💾 🔥.
+Maintained by [UW CS Club](http://csclub.uwaterloo.ca/).
 
-Feel free to contribute by submitting a pull request :octocat:!
+This repo has links to tech-related internships positions and external resources 💾 🔥.
+
+Feel free to contribute by submitting a pull request :octocat: or using this [form](https://forms.gle/UBYHhvhD7d8XXawe8) 📋!
 
 Good luck and happy hunting :tada:!
 
@@ -14,3 +16,4 @@ Good luck and happy hunting :tada:!
 | Link | Notes |
 |------|-------|
 
+#### Contributors
