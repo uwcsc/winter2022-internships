@@ -12,6 +12,8 @@ Good luck and happy hunting :tada:!
 |--------------|----------|----------|--------------|-------|
 | [Amazon (US)](https://www.amazon.jobs/en/jobs/1557929/software-development-engineer-internship-summer-2022-us) | SWE | Multiple locations | | |
 | [Amazon (Canada)](https://www.amazon.jobs/en/jobs/1559866/software-development-engineer-intern-summer-2022-canada) | SWE | Multiple locations | | |
+| [Apple](https://jobs.apple.com/en-us/details/200253195/software-engineering-internship?team=STDNT) | SWE | Multiple locations | | |
+| [Cambly](https://jobs.lever.co/cambly/a85a325b-1992-421b-8e62-ea487a8fba0b) | SWE | San Francisco | | |
 | [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | SWE | Multiple locations | | |
 | [Google (US)](https://careers.google.com/jobs/results/111556027477828294/) | SWE | Multiple locations | | Application Deadline: **August 20th 2021**|
 | [Google (Canada)](https://careers.google.com/jobs/results/85238117155381958/?hl=fr_FR) | SWE | Waterloo, Montreal | | |
