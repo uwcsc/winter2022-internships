@@ -28,5 +28,6 @@ Good luck and happy hunting :tada:!
 ### Job Search Resources
 | Link | Notes |
 |------|-------|
+| [levels.fyi](https://www.levels.fyi/internships/) | General list of internships with salary and housing notes. |
 
 #### Contributors
