@@ -22,7 +22,7 @@ Good luck and happy hunting :tada:!
 | [Microsoft (US)](https://careers.microsoft.com/students/us/en/job/1085294/Software-Engineering-Intern-Opportunities) | SWE | Multiple locations | | |
 | [Microsoft (Canada)](https://careers.microsoft.com/us/en/job/1116547/Software-Engineer-Winter-Co-op-Intern-Opportunities%E2%80%AF%E2%80%AF) | SWE | Vancouver, Canada | | |
 | [Palantir](https://jobs.lever.co/palantir/5d5ff415-8219-4e0c-9930-2d5919e90354) | SWE | London, New York, Palo Alto, Washington | | |
-| [Playstation (US & Canada)](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3316438) | SWE, SDET, multiple other jobs | Cali, other US and Waterloo | | |
+| [Playstation (US & Canada)](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3316438) | SWE, SDET, multiple other jobs | Waterloo ON, US (multiple locations) | | |
 | [Sigma](https://boards.greenhouse.io/sigmacomputing/jobs/4510690003) | SWE | San Francisco | | |
 
 
