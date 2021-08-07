@@ -10,7 +10,7 @@ Good luck and happy hunting :tada:!
 
 | Company Name | Position | Location | Visa Support | Notes |
 |--------------|----------|----------|--------------|-------|
-| [Apple](https://jobs.apple.com/en-us/details/200253195/software-engineering-internship?team=STDNT) | SWE | Multiple locations | | Not sure if this is for Winter. Edit: It is for fall/winter. |
+| [Apple](https://jobs.apple.com/en-us/details/200253195/software-engineering-internship?team=STDNT) | SWE | Multiple locations | | For Fall 2021, Winter 2022 and perhaps Summer 2022. |
 | [A Thinking Ape](https://boards.greenhouse.io/athinkingape/jobs/3364340) | SWE | Vancouver | | |
 | [Cambly](https://jobs.lever.co/cambly/a85a325b-1992-421b-8e62-ea487a8fba0b) | SWE | San Francisco | | |
 | [Cisco](https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B169482%5D&21178_format=6020&21180=%5B33821095%2C165%5D&21180_format=6022&21181=%5B201%2C187%5D&21181_format=6023&21183=%5B34442672%2C174%2C175%2C176%2C177%2C178%2C179%2C180%2C211849%2C181%5D&21183_format=6024&listFilterMode=1) | SRE, Full Stack, Product | San Francisco | | |
