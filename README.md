@@ -25,6 +25,7 @@ Good luck and happy hunting :tada:!
 | [Playstation (US & Canada)](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3316438) | SWE, SDET, multiple other jobs | Waterloo ON, US (multiple locations) | | Asks if you are interested in Summer 2022. |
 | [Robinhood](https://robinhood.com/us/en/careers/openings/?gh_src=ed898e781us) | Multiple Positions | Menlo Park | | Scroll down to University. Same posting for Winter/Summer/Fall. |
 | [Sigma](https://boards.greenhouse.io/sigmacomputing/jobs/4510690003) | SWE | San Francisco | | |
+| [Stripe](https://stripe.com/jobs/listing/software-engineering-intern/3368543) | SWE | San Francisco, Seattle, Toronto, or NYC | | For Winter and Summer |
 
 
 ### Job Search Resources
