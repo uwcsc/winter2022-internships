@@ -27,7 +27,7 @@ Good luck and happy hunting :tada:!
 | [Robinhood](https://robinhood.com/us/en/careers/openings/?gh_src=ed898e781us) | Multiple Positions | Menlo Park | | Scroll down to University. Same posting for Winter/Summer/Fall. |
 | [Sigma](https://boards.greenhouse.io/sigmacomputing/jobs/4510690003) | SWE | San Francisco | | |
 | [Stripe](https://stripe.com/jobs/listing/software-engineering-intern/3368543) | SWE | San Francisco, Seattle, Toronto, or NYC | | For Winter and Summer |
-
+| [Verkada](https://jobs.lever.co/verkada?department=Engineering&commitment=Intern) | Backend, Frontend, Computer Vision, Embedded | San Mateo | | Winter + Summer | 
 ### Job Search Resources
 | Link | Notes |
 |------|-------|
