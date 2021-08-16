@@ -22,6 +22,7 @@ Good luck and happy hunting :tada:!
 | [Konrad](https://boards.greenhouse.io/konradgroup/jobs/4581834003?gh_src=56dbf40d3us) | SWE | Toronto | | |
 | [Microsoft (US)](https://careers.microsoft.com/students/us/en/job/1085294/Software-Engineering-Intern-Opportunities) | SWE | Multiple locations | | Not sure if this is for Winter. |
 | [Microsoft (Canada)](https://careers.microsoft.com/us/en/job/1116547/Software-Engineer-Winter-Co-op-Intern-Opportunities%E2%80%AF%E2%80%AF) | SWE | Vancouver, Canada | | |
+| [Nvidia](https://nvidia.wd5.myworkdayjobs.com/UniversityJobs/11/refreshFacet/318c8bb6f553100021d223d9780d30be) | Multiple Positions | Santa Clara, Remote | | |
 | [Palantir](https://jobs.lever.co/palantir/5d5ff415-8219-4e0c-9930-2d5919e90354) | SWE | London, New York, Palo Alto, Washington | | Flexible start date. |
 | [Playstation (US & Canada)](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3316438) | SWE, SDET, multiple other jobs | Waterloo ON, US (multiple locations) | | Asks if you are interested in Summer 2022. |
 | [Robinhood](https://robinhood.com/us/en/careers/openings/?gh_src=ed898e781us) | Multiple Positions | Menlo Park | | Scroll down to University. Same posting for Winter/Summer/Fall. |
