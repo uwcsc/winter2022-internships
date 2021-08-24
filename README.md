@@ -29,6 +29,7 @@ Good luck and happy hunting :tada:!
 | [Stripe](https://stripe.com/jobs/listing/software-engineering-intern/3368543) | SWE | San Francisco, Seattle, Toronto, or NYC | | For Winter and Summer |
 | [Verkada](https://jobs.lever.co/verkada?department=Engineering&commitment=Intern) | Backend, Frontend, Computer Vision, Embedded | San Mateo | | Winter + Summer |
 | [Wish](https://jobs.smartrecruiters.com/Wish/743999766417964) | SWE | Toronto | | Can work remotely. Under Marketplace & Logistics team. | 
+| [Tesla](https://www.tesla.com/careers/search/?country=US&query=spring%202022) | Multiple Positions | Palo Alto, Fremont | | remote or in person | 
 ### Job Search Resources
 | Link | Notes |
 |------|-------|
