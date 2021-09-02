@@ -18,6 +18,7 @@ Good luck and happy hunting :tada:!
 | [Cruise](https://www.getcruise.com/careers/jobs?department=2bGFusPlaxpzEPHPIb2QLK&search=intern) | Multiple positions | Multiple locations | | |
 | [Google (US)](https://careers.google.com/jobs/results/111556027477828294/) | SWE | Multiple locations | | Application Deadline: **August 20th 2021**|
 | [Google (Canada)](https://careers.google.com/jobs/results/85238117155381958/?hl=fr_FR) | SWE | Waterloo, Montreal | | |
+| [Instabase](https://instabase.com/careers/#positions) | SWE | San Francisco, Menlo Park, & New York City | | |
 | [Intel](https://jobs.intel.com/ShowJob/Id/2872320/Software-Engineer-Undergraduate-Intern) | SWE | Multiple locations | | Not sure if this is for Winter. |
 | [Konrad](https://boards.greenhouse.io/konradgroup/jobs/4581834003?gh_src=56dbf40d3us) | SWE | Toronto | | |
 | [Microsoft (US)](https://careers.microsoft.com/students/us/en/job/1085294/Software-Engineering-Intern-Opportunities) | SWE | Multiple locations | | Not sure if this is for Winter. |
@@ -30,7 +31,7 @@ Good luck and happy hunting :tada:!
 | [Verkada](https://jobs.lever.co/verkada?department=Engineering&commitment=Intern) | Backend, Frontend, Computer Vision, Embedded | San Mateo | | Winter + Summer |
 | [Wish](https://jobs.smartrecruiters.com/Wish/743999766417964) | SWE | Toronto | | Can work remotely. Under Marketplace & Logistics team. | 
 | [Tesla](https://www.tesla.com/careers/search/?country=US&query=spring%202022) | Multiple Positions | Palo Alto, Fremont | | remote or in person | 
-| [TD] (https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25404&siteid=5813&jobid=2838700&Codes=TD010#jobDetails=2838700_5813) | Software Developer | Toronto, ON | | Winter |
+| [TD](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25404&siteid=5813&jobid=2838700&Codes=TD010#jobDetails=2838700_5813) | Software Developer | Toronto, ON | | Winter |
 ### Job Search Resources
 | Link | Notes |
 |------|-------|
