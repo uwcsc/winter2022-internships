@@ -31,6 +31,7 @@ Good luck and happy hunting :tada:!
 | [Wish](https://jobs.smartrecruiters.com/Wish/743999766417964) | SWE | Toronto | | Can work remotely. Under Marketplace & Logistics team. | 
 | [Tesla](https://www.tesla.com/careers/search/?country=US&query=spring%202022) | Multiple Positions | Palo Alto, Fremont | | remote or in person for spring 2022 | 
 | [TD](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25404&siteid=5813&jobid=2838700&Codes=TD010#jobDetails=2838700_5813) | Software Developer | Toronto, ON | | Winter |
+| [Pinterest](https://www.pinterestcareers.com/job/13754842/) | SWE | Toronto | | Winter | 
 ### Job Search Resources
 | Link | Notes |
 |------|-------|
