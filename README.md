@@ -32,6 +32,7 @@ Good luck and happy hunting :tada:!
 | [Tesla](https://www.tesla.com/careers/search/?country=US&query=spring%202022) | Multiple Positions | Palo Alto, Fremont | | remote or in person for spring 2022 | 
 | [TD](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25404&siteid=5813&jobid=2838700&Codes=TD010#jobDetails=2838700_5813) | Software Developer | Toronto, ON | | Winter |
 | [Pinterest](https://www.pinterestcareers.com/job/13754842/) | SWE | Toronto | | Winter | 
+| [Wealthsimple](https://jobs.lever.co/wealthsimple/21442ff5-3199-4879-bcb3-2af48f33be84) | Software Engineer Co-op | Toronto, ON or Remote | | Winter | 
 ### Job Search Resources
 | Link | Notes |
 |------|-------|
