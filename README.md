@@ -33,6 +33,8 @@ Good luck and happy hunting :tada:!
 | [TD](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25404&siteid=5813&jobid=2838700&Codes=TD010#jobDetails=2838700_5813) | Software Developer | Toronto, ON | | Winter |
 | [Pinterest](https://www.pinterestcareers.com/job/13754842/) | SWE | Toronto | | Winter | 
 | [Wealthsimple](https://jobs.lever.co/wealthsimple/21442ff5-3199-4879-bcb3-2af48f33be84) | Software Engineer Co-op | Toronto, ON or Remote | | Winter | 
+| [Doordash](https://careers.doordash.com/?search=Software%20Engineer%2C%20Intern#open-positions) | Software Engineer, Intern | Multiple Locations | | Not specified (Probably Winter & Summer) | 
+
 ### Job Search Resources
 | Link | Notes |
 |------|-------|
