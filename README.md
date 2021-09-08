@@ -33,6 +33,7 @@ Good luck and happy hunting :tada:!
 | [TD](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25404&siteid=5813&jobid=2838700&Codes=TD010#jobDetails=2838700_5813) | Software Developer | Toronto, ON | | Winter |
 | [Pinterest](https://www.pinterestcareers.com/job/13754842/) | SWE | Toronto | | Winter | 
 | [Wealthsimple](https://jobs.lever.co/wealthsimple/21442ff5-3199-4879-bcb3-2af48f33be84) | Software Engineer Co-op | Toronto, ON or Remote | | Winter | 
+| [LinkedIn](https://www.linkedin.com/jobs/search/?currentJobId=2705876685&f_C=1337&f_E=1&geoId=90000084&keywords=linkedin&location=San%20Francisco%20Bay%20Area) | Software Engineer Intern | Sunnyvale, CA (Remote from Canada) | | US-based and summer positions also available | 
 ### Job Search Resources
 | Link | Notes |
 |------|-------|
