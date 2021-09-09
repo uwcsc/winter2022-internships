@@ -18,7 +18,6 @@ Good luck and happy hunting :tada:!
 | [Cruise](https://www.getcruise.com/careers/jobs?department=2bGFusPlaxpzEPHPIb2QLK&search=intern) | Multiple positions | Multiple locations | | |
 | [Google (US)](https://careers.google.com/jobs/results/111556027477828294/) | SWE | Multiple locations | | Application Deadline: **August 20th 2021**|
 | [Google (Canada)](https://careers.google.com/jobs/results/85238117155381958/?hl=fr_FR) | SWE | Waterloo, Montreal | | |
-| [Instabase](https://instabase.com/careers/#positions) | SWE | San Francisco, Menlo Park, & New York City | | |
 | [Intel](https://jobs.intel.com/ShowJob/Id/2872320/Software-Engineer-Undergraduate-Intern) | SWE | Multiple locations | | Not sure if this is for Winter. |
 | [Konrad](https://boards.greenhouse.io/konradgroup/jobs/4581834003?gh_src=56dbf40d3us) | SWE | Toronto | | |
 | [Microsoft (US)](https://careers.microsoft.com/students/us/en/job/1085294/Software-Engineering-Intern-Opportunities) | SWE | Multiple locations | | Not sure if this is for Winter. |
@@ -35,6 +34,7 @@ Good luck and happy hunting :tada:!
 | [Pinterest](https://www.pinterestcareers.com/job/13754842/) | SWE | Toronto | | Winter | 
 | [Wealthsimple](https://jobs.lever.co/wealthsimple/21442ff5-3199-4879-bcb3-2af48f33be84) | Software Engineer Co-op | Toronto, ON or Remote | | Winter | 
 | [LinkedIn](https://www.linkedin.com/jobs/search/?currentJobId=2705876685&f_C=1337&f_E=1&geoId=90000084&keywords=linkedin&location=San%20Francisco%20Bay%20Area) | Software Engineer Intern | Sunnyvale, CA (Remote from Canada) | | US-based and summer positions also available | 
+| [Instabase](https://instabase.com/careers/#positions) | SWE | San Francisco, Menlo Park, & New York City | | |
 
 ### Job Search Resources
 | Link | Notes |
