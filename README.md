@@ -29,7 +29,15 @@ Good luck and happy hunting :tada:!
 | [Stripe](https://stripe.com/jobs/listing/software-engineering-intern/3368543) | SWE | San Francisco, Seattle, Toronto, or NYC | | For Winter and Summer |
 | [Verkada](https://jobs.lever.co/verkada?department=Engineering&commitment=Intern) | Backend, Frontend, Computer Vision, Embedded | San Mateo | | Winter + Summer |
 | [Wish](https://jobs.smartrecruiters.com/Wish/743999766417964) | SWE | Toronto | | Can work remotely. Under Marketplace & Logistics team. | 
+| [Tesla](https://www.tesla.com/careers/search/?country=US&query=spring%202022) | Multiple Positions | Palo Alto, Fremont | | remote or in person for spring 2022 | 
+| [TD](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25404&siteid=5813&jobid=2838700&Codes=TD010#jobDetails=2838700_5813) | Software Developer | Toronto, ON | | Winter |
+| [Pinterest](https://www.pinterestcareers.com/job/13754842/) | SWE | Toronto | | Winter | 
+| [Wealthsimple](https://jobs.lever.co/wealthsimple/21442ff5-3199-4879-bcb3-2af48f33be84) | Software Engineer Co-op | Toronto, ON or Remote | | Winter | 
+| [LinkedIn](https://www.linkedin.com/jobs/search/?currentJobId=2705876685&f_C=1337&f_E=1&geoId=90000084&keywords=linkedin&location=San%20Francisco%20Bay%20Area) | Software Engineer Intern | Sunnyvale, CA (Remote from Canada) | | US-based and summer positions also available | 
+| [Instabase](https://instabase.com/careers/#positions) | SWE | San Francisco, Menlo Park, & New York City | | |
+| [Databricks](https://databricks.com/company/careers/open-positions?department=universityrecruiting&location=all) | SWE | San Francisco, Amsterdam, Remote | | Winter and Summer 2022 |
 | [Nvidia](https://nvidia.wd5.myworkdayjobs.com/UniversityJobs/11/refreshFacet/318c8bb6f553100021d223d9780d30be) | Multiple Positions | Santa Clara, Remote | | For Fall 2021, Winte and Summer 2022. |
+
 ### Job Search Resources
 | Link | Notes |
 |------|-------|
