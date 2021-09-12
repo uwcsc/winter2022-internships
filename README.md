@@ -39,6 +39,7 @@ Good luck and happy hunting :tada:!
 | [Nvidia](https://nvidia.wd5.myworkdayjobs.com/UniversityJobs/11/refreshFacet/318c8bb6f553100021d223d9780d30be) | Multiple Positions | Santa Clara, Remote | For Fall 2021, Winter and Summer 2022. |
 | [Shopify](https://www.shopify.ca/careers/search?teams%5B%5D=interns&keywords=&sort=team_asc) | Various (SWE, Data Sci, Data Eng) | Remote (North America) | |
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/5339546002/) | SWE | New York | Visa support available. |
+| [RBC](https://jobs.rbc.com/ca/en/job/404796/Software-Developer-Winter-Student-2022-Opportunities) | Software Developer | Remote | Potential to work in person depending on Covid restrictions |
 
 ### Job Search Resources
 | Link | Notes |
