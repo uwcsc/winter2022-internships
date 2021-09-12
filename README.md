@@ -38,6 +38,7 @@ Good luck and happy hunting :tada:!
 | [Databricks](https://databricks.com/company/careers/open-positions?department=universityrecruiting&location=all) | SWE | San Francisco, Amsterdam, Remote | | Winter and Summer 2022 |
 | [Nvidia](https://nvidia.wd5.myworkdayjobs.com/UniversityJobs/11/refreshFacet/318c8bb6f553100021d223d9780d30be) | Multiple Positions | Santa Clara, Remote | | For Fall 2021, Winte and Summer 2022. |
 | [Shopify](https://www.shopify.ca/careers/search?teams%5B%5D=interns&keywords=&sort=team_asc) | Various (SWE, Data Sci, Data Eng) | Remote (North America) | | Winter 2022 |
+| [RBC](https://jobs.rbc.com/ca/en/job/404796/Software-Developer-Winter-Student-2022-Opportunities) | Software Developer | Remote | | Potential to work in person depending on Covid restrictions |
 
 
 ### Job Search Resources
