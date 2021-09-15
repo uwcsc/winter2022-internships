@@ -40,6 +40,7 @@ Good luck and happy hunting :tada:!
 | [Shopify](https://www.shopify.ca/careers/search?teams%5B%5D=interns&keywords=&sort=team_asc) | Various (SWE, Data Sci, Data Eng) | Remote (North America) | |
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/5339546002/) | SWE | New York | Visa support available. |
 | [RBC](https://jobs.rbc.com/ca/en/job/404796/Software-Developer-Winter-Student-2022-Opportunities) | Software Developer | Remote | Potential to work in person depending on Covid restrictions |
+| [IBM](https://www.ibm.com/employment/#jobs?&job-search=software%20developer%20intern%204%208%20months) | Software Developer | Ottawa, ON or Markham, ON | 4 or 8 Months |
 
 ### Job Search Resources
 | Link | Notes |
