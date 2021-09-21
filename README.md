@@ -36,11 +36,16 @@ Good luck and happy hunting :tada:!
 | [LinkedIn](https://www.linkedin.com/jobs/search/?currentJobId=2705876685&f_C=1337&f_E=1&geoId=90000084&keywords=linkedin&location=San%20Francisco%20Bay%20Area) | Software Engineer Intern | Sunnyvale, CA (Remote from Canada) | US-based and summer positions also available | 
 | [Instabase](https://instabase.com/careers/#positions) | SWE | San Francisco, Menlo Park, & New York City | |
 | [Databricks](https://databricks.com/company/careers/open-positions?department=universityrecruiting&location=all) | SWE | San Francisco, Amsterdam, Remote | Winter and Summer 2022 |
-| [Nvidia](https://nvidia.wd5.myworkdayjobs.com/UniversityJobs/11/refreshFacet/318c8bb6f553100021d223d9780d30be) | Multiple Positions | Santa Clara, Remote | For Fall 2021, Winter and Summer 2022. |
+| [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/UniversityJobs/11/refreshFacet/318c8bb6f553100021d223d9780d30be) | Multiple Positions | Santa Clara, Remote | For Fall 2021, Winter and Summer 2022. |
 | [Shopify](https://www.shopify.ca/careers/search?teams%5B%5D=interns&keywords=&sort=team_asc) | Various (SWE, Data Sci, Data Eng) | Remote (North America) | |
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/5339546002/) | SWE | New York | Visa support available. |
 | [RBC](https://jobs.rbc.com/ca/en/job/404796/Software-Developer-Winter-Student-2022-Opportunities) | Software Developer | Remote | Potential to work in person depending on Covid restrictions |
 | [IBM](https://www.ibm.com/employment/#jobs?&job-search=software%20developer%20intern%204%208%20months) | Software Developer | Ottawa, ON or Markham, ON | 4 or 8 Months |
+| [Akuna](https://akunacapital.com/careers#careers) | SWE, Quant Trader/Dev/Researcher | Boston, Chicago | 10 weeks, 2023 Grad Year |
+| [Citadel Securities](https://www.citadelsecurities.com/careers/details/trader-intern-us/) | SWE, Quant Trader/Researcher | NYC, Chicago | 11 weeks, Research open to PhD students only |
+| [DE Shaw](https://www.deshaw.com/careers/internships) | SWE, Quant Trader/Researcher | NYC | |
+| [HRT](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3015374) | SWE, Quant Trader | Chicago, NYC | |
+
 
 ### Job Search Resources
 | Link | Notes |
