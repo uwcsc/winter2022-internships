@@ -43,8 +43,6 @@ Good luck and happy hunting :tada:!
 | [IBM](https://www.ibm.com/employment/#jobs?&job-search=software%20developer%20intern%204%208%20months) | Software Developer | Ottawa, ON or Markham, ON | 4 or 8 Months |
 | [Akuna](https://akunacapital.com/careers#careers) | SWE, Quant Trader/Dev/Researcher | Boston, Chicago | 10 weeks, 2023 Grad Year |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/trader-intern-us/) | SWE, Quant Trader/Researcher | NYC, Chicago | 11 weeks, Research open to PhD students only |
-| [DE Shaw](https://www.deshaw.com/careers/internships) | SWE, Quant Trader/Researcher | NYC | |
-| [HRT](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3015374) | SWE, Quant Trader | Chicago, NYC | |
 
 
 ### Job Search Resources
