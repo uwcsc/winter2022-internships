@@ -14,7 +14,7 @@ Good luck and happy hunting :tada:!
 | [A Thinking Ape](https://boards.greenhouse.io/athinkingape/jobs/3364340) | SWE | Vancouver | |
 | [Cambly](https://jobs.lever.co/cambly/a85a325b-1992-421b-8e62-ea487a8fba0b) | SWE | San Francisco | |
 | [Cisco](https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B169482%5D&21178_format=6020&21180=%5B33821095%2C165%5D&21180_format=6022&21181=%5B201%2C187%5D&21181_format=6023&21183=%5B34442672%2C174%2C175%2C176%2C177%2C178%2C179%2C180%2C211849%2C181%5D&21183_format=6024&listFilterMode=1) | SRE, Full Stack, Product | San Francisco | |
-| [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | SWE | Multiple locations | Same posting for Winter/Summer/Fall. |
+| [Citadel Securities](https://www.citadelsecurities.com/careers/open-roles/roles-for-students/?keyword=Intern) | SWE/QR/QT | Multiple locations | Same posting for Winter/Summer/Fall. |
 | [Cruise](https://www.getcruise.com/careers/jobs?department=2bGFusPlaxpzEPHPIb2QLK&search=intern) | Multiple positions | Multiple locations | |
 | [Google (US)](https://careers.google.com/jobs/results/111556027477828294/) | SWE | Multiple locations | Application Deadline: **August 20th 2021**|
 | [Google (Canada)](https://careers.google.com/jobs/results/85238117155381958/?hl=fr_FR) | SWE | Waterloo, Montreal | |
@@ -41,8 +41,6 @@ Good luck and happy hunting :tada:!
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/5339546002/) | SWE | New York | Visa support available. |
 | [RBC](https://jobs.rbc.com/ca/en/job/404796/Software-Developer-Winter-Student-2022-Opportunities) | Software Developer | Remote | Potential to work in person depending on Covid restrictions |
 | [IBM](https://www.ibm.com/employment/#jobs?&job-search=software%20developer%20intern%204%208%20months) | Software Developer | Ottawa, ON or Markham, ON | 4 or 8 Months |
-| [Citadel Securities](https://www.citadelsecurities.com/careers/details/trader-intern-us/) | SWE, Quant Trader/Researcher | NYC, Chicago | 11 weeks, Research open to PhD students only |
-
 
 ### Job Search Resources
 | Link | Notes |
