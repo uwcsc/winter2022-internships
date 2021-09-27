@@ -47,6 +47,14 @@ Good luck and happy hunting :tada:!
 | Link | Notes |
 |------|-------|
 | [levels.fyi](https://www.levels.fyi/internships/) | General list of internships with salary and housing notes. |
+| [S22 Internships](https://github.com/pittcsc/Summer2022-Internships) | Externally sourced list of internships for Summer 2022 term |
+| [S22 Quant Internships](https://github.com/quantprep/quantinternships2022) | Externally sourced repo for Quant internships |
+| [S22 Quant New Grad](https://github.com/quantprep/quantnewgrad2022) | Externally sourced repo for Quant new grad positions |
+| [cscareers.dev](https://www.cscareers.dev/) | Tech community that releases internships, provides process tracking on applications (Discord link found at the bottom) |
+
+
+
+
 
 #### Contributors
 [Raymo111](https://github.com/Raymo111)
