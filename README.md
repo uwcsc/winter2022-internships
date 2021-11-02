@@ -16,7 +16,6 @@ Good luck and happy hunting :tada:!
 | [Cisco](https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B169482%5D&21178_format=6020&21180=%5B33821095%2C165%5D&21180_format=6022&21181=%5B201%2C187%5D&21181_format=6023&21183=%5B34442672%2C174%2C175%2C176%2C177%2C178%2C179%2C180%2C211849%2C181%5D&21183_format=6024&listFilterMode=1) | SRE, Full Stack, Product | San Francisco | |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/open-roles/roles-for-students/?keyword=Intern) | SWE/QR/QT | Multiple locations | Same posting for Winter/Summer/Fall. |
 | [Cruise](https://www.getcruise.com/careers/jobs?department=2bGFusPlaxpzEPHPIb2QLK&search=intern) | Multiple positions | Multiple locations | |
-| [Google (US)](https://careers.google.com/jobs/results/111556027477828294/) | SWE | Multiple locations | Application Deadline: **August 20th 2021**|
 | [Google (Canada)](https://careers.google.com/jobs/results/85238117155381958/?hl=fr_FR) | SWE | Waterloo, Montreal | |
 | [Intel](https://jobs.intel.com/ShowJob/Id/2872320/Software-Engineer-Undergraduate-Intern) | SWE | Multiple locations | Not sure if this is for Winter. |
 | [Konrad](https://boards.greenhouse.io/konradgroup/jobs/4581834003?gh_src=56dbf40d3us) | SWE | Toronto | |
