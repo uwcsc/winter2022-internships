@@ -41,6 +41,7 @@ Good luck and happy hunting :tada:!
 | [RBC](https://jobs.rbc.com/ca/en/job/404796/Software-Developer-Winter-Student-2022-Opportunities) | Software Developer | Remote | Potential to work in person depending on Covid restrictions |
 | [IBM](https://www.ibm.com/employment/#jobs?&job-search=software%20developer%20intern%204%208%20months) | Software Developer | Ottawa, ON or Markham, ON | 4 or 8 Months |
 | [Fractal](https://tryfractal.notion.site/tryfractal/Fractal-Job-Board-a39b64712f094c7785f588053fc283a9) | Backend, Systems Engineer | New York, Remote | Winter and Summer 2022 - Need to apply via email (careers@fractal.co) |
+| [MLH Fellowship](https://fellowship.mlh.io/) | SWE, DevOps/SRE/PE, Other | Remote (Global) | Offered Year-round (Fall, Winter, & Summer) |
 
 ### Job Search Resources
 | Link | Notes |
@@ -57,3 +58,4 @@ Good luck and happy hunting :tada:!
 
 #### Contributors
 [Raymo111](https://github.com/Raymo111)
+[theycallmeswift](https://github.com/theycallmeswift)
